@@ -1,6 +1,6 @@
 ## Olá sou o Mike Brian Cifuentes! 
 
-- 💻 - No momento estou trabalhando como C# com o framework Asp.Net Core e Entity Framework!
+- 💻 - No momento estou trabalhando com C#, Asp.Net Core e Entity Framework!
 - 🍃 - Estudando Java Spring Boot para o desenvolvimento de microservices.
 - 👾 - Pronomes: Ele/Dele.
 
