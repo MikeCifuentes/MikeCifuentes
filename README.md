@@ -2,7 +2,7 @@
 
 - 💻 - No momento estou trabalhando com C#, Asp.Net Core e Entity Framework!
 - 🍃 - Estudando Java Spring Boot para o desenvolvimento de microservices.
-- 👾 - Pronomes: Ele/Dele.
+
 
 <div align="center">
   <a href="https://github.com/MikeCifuentes">
